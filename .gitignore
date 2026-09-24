@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDEs / editors
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+
+# Local agent settings
+.claude/settings.local.json
+
+# Logs / temp
+*.log
+.tmp/
+tmp/
+
+# Node dependencies
+node_modules/
+
+# Rendered video output (shorts samples / deliverables)
+/shorts/
